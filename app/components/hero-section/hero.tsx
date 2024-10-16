@@ -5,8 +5,8 @@ export default function Hero() {
         <h1>Find the perfect <span className={css.span}>Freelance</span> services for your business</h1>
         <p>We're a team of freelancers who specialize in helping businesses grow and succeed online.</p>
         <div className={css.buttons}>
-          <button className={css.hero_button}>Get Started</button>
-          <button className={css.hero_button}>Learn More</button>
+          <button className={css.heroButton}>Get Started</button>
+          <button className={css.heroButton}>Learn More</button>
         </div>  
       </div>
   )
